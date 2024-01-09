@@ -1,6 +1,8 @@
+![Web Developer](https://media.licdn.com/dms/image/D5616AQFp7CJ4PXLtjA/profile-displaybackgroundimage-shrink_350_1400/0/1704795349123?e=1710374400&v=beta&t=d9226tjrz6VHgsju7mcqUdPx9gCBNJYkHI4IKHxdGUQ)
+
+
 # Hi there 👋, My name is Jahangir Alom
 ##### Full Stack Developer with a focus on Front-end development
-![Web Developer](https://media.licdn.com/dms/image/D5616AQFp7CJ4PXLtjA/profile-displaybackgroundimage-shrink_350_1400/0/1704795349123?e=1710374400&v=beta&t=d9226tjrz6VHgsju7mcqUdPx9gCBNJYkHI4IKHxdGUQ)
 
 Hello, This is Jahangir Alom. A passionate web developer. I have strong knowledge of frontend development and have basic knowledge of the backend like RESTful API. I really enjoy learning new technologies. I have solved several web application problems with Reactjs, Expressjs, and MongoDB Atlast.I am well-versed in front-end technologies like HTML5, CSS3, and JavaScript, and have hands-on experience with popular libraries and frameworks such as Bootstrap and Tailwind CSS.
 
