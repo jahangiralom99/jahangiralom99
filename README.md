@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/w7NSmQC/Black-and-White-Modern-Business-Linked-In-Banner.png)
+![Web Developer](https://media.licdn.com/dms/image/D5616AQEwOR1GNMfeoA/profile-displaybackgroundimage-shrink_350_1400/0/1713548142284?e=1720051200&v=beta&t=ZMw3TC84dIHCmP5ktoKZZ5nRgACLVqiezSQvlEvbcuU)
 
 
 # Hi there 👋, My name is Jahangir Alom
