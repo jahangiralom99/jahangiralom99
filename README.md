@@ -2,16 +2,16 @@
 
 
 # Hi there 👋, My name is Jahangir Alom
-##### Full Stack Developer with a focus on Front-end development
+##### Full Stack Developer with a focus on Front-end development .
 
 Hello, This is Jahangir Alom. A passionate web developer. I have strong knowledge of frontend development and have basic knowledge of the backend like RESTful API. I really enjoy learning new technologies. I have solved several web application problems with Reactjs, Expressjs, and MongoDB Atlast.I am well-versed in front-end technologies like HTML5, CSS3, and JavaScript, and have hands-on experience with popular libraries and frameworks such as Bootstrap and Tailwind CSS.
 
-Skills:  REACT / JS / HTML / CSS /NODE.JS / EXPRESS.JS / Mongodb Atlast /TailwindCSS / Firebase /Figma
+Skills:  REACT / JS / HTML / CSS /NODE.JS / EXPRESS.JS / Mongodb Atlast /TailwindCSS / Firebase /Figma / frappe framework
 
-- 🔭 I’m currently working on Home 
-- 🌱 I’m currently learning Javascript 
+- 🔭 I’m currently working on Ionic Corporation 
+- 🌱 I’m currently Working On Javascript Developer  
 - 💬 Ask me about Certainly! I'd be happy to ask you about a topic of your choice. What would you like to discuss or be asked about? 
-- 😄 Pronouns: milon 
+- 😄 Pronouns: Milon 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahangiralom99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahangiralom99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/milonxs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jahangir_alom99/)  
