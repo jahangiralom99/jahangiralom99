@@ -20,19 +20,6 @@ Skills:  REACT / JS / HTML / CSS /NODE.JS / EXPRESS.JS / Mongodb Atlast /Tailwin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jahangiralom99)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Hi there! 👋
-
-Welcome to my GitHub profile!
-
-## 📊 My GitHub Analytics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralom99)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahangiralom99&show_icons=true&count_private=true)  
