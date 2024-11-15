@@ -28,12 +28,12 @@ Welcome to my GitHub profile!
 
 ## 📊 My GitHub Analytics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahangiralom99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralom99&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jahangiralom99&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jahangiralom99&theme=radical)
 
-Check out my projects [here](https://github.com/jahangiralom99)!
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralom99&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahangiralom99&theme=github)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralom99)](https://github.com/anuraghazra/github-readme-stats)
