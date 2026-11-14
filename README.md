@@ -1,47 +1,85 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEwOR1GNMfeoA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713548142284?e=1737590400&v=beta&t=32EH7UOcWw2Ewz237nDbEqnTsYbHShffE6NeKx7tlX4)
+<div align="center">
 
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHb_2gORgNPYg/profile-displaybackgroundimage-shrink_350_1400/B4DZpUtXg4IAAY-/0/1762357776791?e=1796256000&v=beta&t=CNmJtfNbHEv4CR-seRBlhwuoyWBJlAohFC4EAi74TJg" alt="Jahangir Alom - Web Developer Banner" width="100%" />
 
-# Hi there 👋, My name is Jahangir Alom
-##### Full Stack Developer with a focus on Front-end development .
+# Hi there 👋, I'm Jahangir Alom
 
-Hello, This is Jahangir Alom. A passionate web developer. I have strong knowledge of frontend development and have basic knowledge of the backend like RESTful API. I really enjoy learning new technologies. I have solved several web application problems with Reactjs, Expressjs, and MongoDB Atlast.I am well-versed in front-end technologies like HTML5, CSS3, and JavaScript, and have hands-on experience with popular libraries and frameworks such as Bootstrap and Tailwind CSS.
+**Full Stack Developer with a focus on Front-end development**
 
-Skills:  REACT / JS / HTML / CSS /NODE.JS / EXPRESS.JS / Mongodb Atlast /TailwindCSS / Firebase /Figma / frappe framework
+<a href="https://github.com/jahangiralom99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jahangiralom99/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/milonxs"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/jahangir_alom99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-- 🔭 I’m currently working on Ionic Corporation 
-- 🌱 I’m currently Working On Javascript Developer  
-- 💬 Ask me about Certainly! I'd be happy to ask you about a topic of your choice. What would you like to discuss or be asked about? 
-- 😄 Pronouns: Milon 
+</div>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahangiralom99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahangiralom99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/milonxs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jahangir_alom99/)  
+## 👨‍💻 About Me
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+Hello, I'm Jahangir Alom, a passionate web developer with strong knowledge of front-end development and a working knowledge of back-end work such as RESTful APIs. I really enjoy learning new technologies.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jahangiralom99)](https://github.com/ryo-ma/github-profile-trophy)
+I have solved several web application problems with React.js, Express.js, and MongoDB Atlas. I'm well-versed in HTML5, CSS3, and JavaScript, with hands-on experience in popular libraries and frameworks such as Bootstrap and Tailwind CSS.
 
+- 🔭 Currently working at **Ionic Corporation**
+- 🌱 Currently working as a **JavaScript Developer**
+- 💬 Ask me about **React, JavaScript, and web development**
+- 😄 You can call me **Milon**
 
+## 🛠️ Skills
 
-# Hi there! 👋
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe Framework" />
+</p>
 
-Welcome to my GitHub profile!
+## 🏆 Achievements
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40" alt="Arctic Code Vault Contributor" /></a>
+  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40" alt="Developer Program Member" /></a>
+  <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35" alt="GitHub Star" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jahangiralom99&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ## 📊 My GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jahangiralom99&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralom99&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jahangiralom99&theme=radical" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralom99&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahangiralom99&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahangiralom99&theme=github)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jahangiralom99/jahangiralom99/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-![GitHub Contribution Snake](https://github.com/jahangiralom99/jahangiralom99/blob/output/github-contribution-grid-snake.svg)
+---
 
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralom99)](https://github.com/anuraghazra/github-readme-stats)
+Thanks for stopping by! ⭐ Feel free to explore my repositories.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahangiralom99&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/jahangiralom99)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jahangiralom99)  
-
+</div>
