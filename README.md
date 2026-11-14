@@ -51,17 +51,12 @@ I have solved several web application problems with React.js, Express.js, and Mo
   <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35" alt="GitHub Star" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jahangiralom99&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jahangiralom99&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralom99&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/jahangiralom99?tab=followers"><img src="https://img.shields.io/github/followers/jahangiralom99?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" /></a>
+  <a href="https://github.com/jahangiralom99?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjahangiralom99&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=blue" alt="Public Repos" /></a>
+  <a href="https://github.com/jahangiralom99"><img src="https://komarev.com/ghpvc/?username=jahangiralom99&label=Profile%20Views&style=for-the-badge&color=ff4081" alt="Profile Views" /></a>
 </p>
 
 <p align="center">
@@ -69,11 +64,11 @@ I have solved several web application problems with React.js, Express.js, and Mo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahangiralom99&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jahangiralom99/jahangiralom99/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahangiralom99/jahangiralom99/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahangiralom99/jahangiralom99/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jahangiralom99/jahangiralom99/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
