@@ -17,13 +17,20 @@
 
 ## 👨‍💻 About Me
 
-Hello, I'm Jahangir Alom, a passionate web developer with strong knowledge of front-end development and a working knowledge of back-end work such as RESTful APIs. I really enjoy learning new technologies.
+Hello, I'm Jahangir, a passionate **Shopify & Frontend Developer** focused on building scalable, user-centric web solutions. I create high-converting e-commerce stores and robust web applications that drive real business growth, using modern technologies like Shopify 2.0, Next.js, and React to bridge premium design with technical scalability.
 
-I have solved several web application problems with React.js, Express.js, and MongoDB Atlas. I'm well-versed in HTML5, CSS3, and JavaScript, with hands-on experience in popular libraries and frameworks such as Bootstrap and Tailwind CSS.
+**My technical arsenal:**
+
+- 🛍️ **Shopify:** Custom Liquid development, Shopify 2.0 themes, and performance optimization
+- 🎨 **Frontend:** Next.js, React.js, Tailwind CSS, and JavaScript (ES6+)
+- ⚙️ **Backend & Data:** RESTful APIs, Express.js, and MongoDB
+
+Throughout my career, I've stayed committed to delivering high-quality, pixel-perfect code in collaborative environments. I thrive on solving complex logic problems and turning design visions into functional reality. Let's build something exceptional together.
 
 - 🔭 Currently working at **Ionic Corporation**
-- 🌱 Currently working as a **JavaScript Developer**
-- 💬 Ask me about **React, JavaScript, and web development**
+- 🌱 Currently working as a **Shopify & Frontend Developer**
+- 💬 Ask me about **Shopify, React, Next.js, and web development**
+- 🌐 Portfolio: [jahangir-portfolio--eight.vercel.app](https://jahangir-portfolio--eight.vercel.app/)
 - 😄 You can call me **Milon**
 
 ## 🛠️ Skills
@@ -67,6 +74,7 @@ I have solved several web application problems with React.js, Express.js, and Mo
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahangiralom99/jahangiralom99/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahangiralom99/jahangiralom99/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jahangiralom99/jahangiralom99/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
